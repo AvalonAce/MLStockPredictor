@@ -12,15 +12,14 @@ This repository contains a Jupyter Notebook that demonstrates machine learning t
 - [License](#license)
 
 ## Overview
-This project applies various machine learning algorithms to predict stock prices and analyze trends using historical stock data. Techniques include data preprocessing, feature engineering, and model selection and evaluation.
+This project applies various machine learning algorithms to predict stock prices and analyze trends using historical stock data. Techniques include data preprocessing, feature engineering, and model selection, creation, and evaluation.
 
 ## Installation
 Clone this repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/yourusername/nyse-stock-prediction.git
-cd nyse-stock-prediction
-pip install -r requirements.txt
+git clone https://github.com/AvalonAce/MLStockPredictor.git
+cd MLStockPredictor
 ```
 
 *Requirements include packages like `pandas`, `numpy`, `scikit-learn`, and `matplotlib`.*
@@ -32,7 +31,7 @@ The data used in this project is from the NYSE dataset on Kaggle. Please downloa
 Open the Jupyter Notebook:
 
 ```bash
-jupyter notebook NYSE_Stock_Prediction.ipynb
+jupyter notebook Stock_Predictor.ipynb
 ```
 
 Follow the instructions in the notebook to run the data preprocessing, model training, and evaluation sections.
