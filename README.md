@@ -20,6 +20,7 @@ Clone this repository and install the necessary packages:
 ```bash
 git clone https://github.com/AvalonAce/MLStockPredictor.git
 cd MLStockPredictor
+pip install -r requirements.txt
 ```
 
 *Requirements include packages like `pandas`, `numpy`, `scikit-learn`, and `matplotlib`.*
