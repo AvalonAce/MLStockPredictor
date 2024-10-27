@@ -44,5 +44,12 @@ The following models are explored and compared:
 ## Results
 Key findings, performance metrics, and visualizations are presented in the notebook. Each model's effectiveness in predicting stock values is evaluated based on metrics like RMSE and MAE.
 
+## Authors
+- Nathan Dejesus
+- Brandon Barker
+- Jack Lea
+- Mike Damiano
+- Ryan Schreck
+
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
