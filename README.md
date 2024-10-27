@@ -1,7 +1,3 @@
-Here's a template for your README:
-
----
-
 # NYSE Stock Prediction with Machine Learning
 
 This repository contains a Jupyter Notebook that demonstrates machine learning techniques to predict stock values using the [New York Stock Exchange dataset](https://www.kaggle.com/datasets/samhithasudha/nyse-stock-exchange-data) from Kaggle.
@@ -43,16 +39,10 @@ Follow the instructions in the notebook to run the data preprocessing, model tra
 
 ## Models Implemented
 The following models are explored and compared:
-- Linear Regression
-- Random Forest
-- LSTM (Long Short-Term Memory Network)
+- IN-PROGRESS
 
 ## Results
 Key findings, performance metrics, and visualizations are presented in the notebook. Each model's effectiveness in predicting stock values is evaluated based on metrics like RMSE and MAE.
 
 ## License
 This project is licensed under the MIT License. See `LICENSE` for details.
-
---- 
-
-This template should help structure your README for effective communication of the project’s content.
